@@ -1,0 +1,1 @@
+print(Tri an là con người vô cùng bị bê đê)
